@@ -1,1 +1,1 @@
-export const url = '/api/task';
+export const url = 'api/task';
