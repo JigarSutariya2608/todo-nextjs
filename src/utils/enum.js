@@ -1,1 +1,1 @@
-export const url = 'http://localhost:3000/api/task';
+export const url = '/api/task';
